@@ -2,9 +2,9 @@
 # https://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file! Do not edit.
 
-www.columbusdata.net	FALSE	/	TRUE	1796974851	columbusdata.net	username=Daveysbp
-www.columbusdata.net	FALSE	/	TRUE	0	ASP.NET_SessionId	r5sps31wozxnvmuzpcnmwa0g
+www.columbusdata.net	FALSE	/	TRUE	0	ASP.NET_SessionId	b4klkjqs3igkl4moe11o2bji
+www.columbusdata.net	FALSE	/	TRUE	1797077757	columbusdata.net	username=Daveysbp
 www.columbusdata.net	FALSE	/	TRUE	0	CDSSettle	001
 www.columbusdata.net	FALSE	/	TRUE	0	cdswebnewterminal	00001
 www.columbusdata.net	FALSE	/	TRUE	0	cdswebtools	userid=Daveysbp
-www.columbusdata.net	FALSE	/	TRUE	0	.cdswebtool	9D2534A6162DEC07720B3AAF897A30797E38046538B2418AC92127E0A14E27EB4DBEB3E444700975177E4084C3C49F4B9451AFAF0A25FE4D50E667B0B04272FC36E58CE30DE32826BF3D3978D2C2CA78046F9AEA886580284348BAF2DEAA3B89
+www.columbusdata.net	FALSE	/	TRUE	0	.cdswebtool	D3F7918A1FBA702685FBA8DAA54E3B6E6BEC7D1A23203A064703360BE671F4B8345F81181371D4513599FA9472D334AB8F21B82EEBD8AB1E670ADA2F6CDEDB602D2B03592CF69359A29CC23862F5EDA5B55C49B686554BE6EB75EA7FDDB3DAD7
